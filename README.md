@@ -1,4 +1,4 @@
-# Sonik-Earth-Beta
+# Sonik Earth Beta
 Generative Soundscape via Google Earth Exploration
 
 Installation:
