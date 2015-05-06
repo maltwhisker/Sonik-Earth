@@ -5,7 +5,7 @@ Installation:
 
 Runs on Mac OS X only. Tested on Yosemite, however may work with some previous versions.
 
-This app has been compiled with the version of Pure Data that it runs on (Pd Extended 0.43.4), so in theory you shouldn’t need to download anything else to use it. Just drag it into your applications folder.
+This app has been compiled with the version of Pure Data that it runs on (Pd Extended 0.43.4), so in theory you shouldn’t need to download anything else to use it. Just drag it into your applications once you've unzipped the file.
 
 Instructions:
 
